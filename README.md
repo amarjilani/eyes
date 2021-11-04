@@ -4,7 +4,7 @@
 This project showcases two eyes in the centre of the screen, which will track your mouse movements across the screen. Furthermore, the page contains a dynamically changing background colour. 
 
 ## How to run
-You can run this progject by visiting https://amarjilani.github.io/eyes and simply moving your mouse around. 
+You can run this project by visiting https://amarjilani.github.io/eyes and simply moving your mouse around. 
 
 ## Future Improvements 
 A button to add more eyes may be added in the future. Additionally, customization of the size and attributes of the eyes (such as colour) can be implemented. A more sophisticated design, such as a complete person, could be added instead of simply eyes. 
